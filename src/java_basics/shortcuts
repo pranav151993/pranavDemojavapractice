@@ -1,0 +1,33 @@
+allign in format 
+ctrl+shift+f
+
+% modulus  1%2 - output is 1 (small value)       
+           5%2 - output is 1 (reminder)
+           2%2 - output is 0 (reminder)
+           7%5 - output is 2 (reminder)
+
+space - (A +" "+ B) OUTPUT- A B 
+
+
+ * for(statment1; statement2 ; stament3){
+ * statmenet1 -initialization, statmenet 2-condition, statmenet
+ * 3-increment/decrement }
+
+
+Debugging-
+
+double click on strt and end of code
+right click>debug as java application>switch>step over>  click red button to terminate .
+window>perspective> close perspective
+
+
+nested for loop 
+/ outer loop-> if condition true(outer loop)--> inner loop -->  if condition true(outer loop)-> it will come inside iner loop--> till its gets break it will run here only-> exit the inner loop->  outer loop->
+  inner loop -> inner loop values will reset
+  
+  
+  string reverse print -imp interview question=> ABCD to DCBA
+  
+ imp- 2nd max/min number from arrray.
+ 
+ 
